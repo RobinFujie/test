@@ -20,9 +20,14 @@ An extensive Google Forms survey will be created (as per PSI).
 
 (Most survey questions will be multiple choice - very few free-answer questions)
 
+**Link to Survey (unpublished):** https://docs.google.com/forms/d/1h39POsMQcC_3A1mmVcNOVR2Yu54UcnCr8AXkZg1stnM/edit 
+
 Interviews will be conducted after survey data is collected.
 
 Interviews will be between 30 and 60 mins to ensure quality of responses.
+
+**Link to Interview Questions:**
+https://docs.google.com/document/d/10V0XF9ZGfLVFOBqeJZT09g1erX6XCyDAiYS1Dg3drWA/edit?tab=t.0
 
 Quantitative data from survey will be presented and analysed as graphs.
 
