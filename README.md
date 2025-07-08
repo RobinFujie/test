@@ -9,6 +9,6 @@ I will use this page (?) to lay out the basics of my PSII
 
 **bold**, ~strikethrough~
 
-<sub>subscript</sub> and <sup>superscript</>
+<sub>subscript</sub> and <sup>superscript</sup>
 
 >rah rah rah
